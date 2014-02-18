@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.integralblue</groupId>
+  <artifactId>httpresponsecache</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140218101641</lastUpdated>
+  </versioning>
+</metadata>
